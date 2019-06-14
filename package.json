@@ -1,5 +1,5 @@
 {
-  "name": "js",
+  "name": "JSexam",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hitrch/Js.git"
+    "url": "git+https://github.com/hitrch/JSexam.git"
   },
   "author": "Vladyslav Palii",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hitrch/Js/issues"
+    "url": "https://github.com/hitrch/JSexam/issues"
   },
-  "homepage": "https://github.com/hitrch/Js#readme",
+  "homepage": "https://github.com/hitrch/JSexam#readme",
   "devDependencies": {
     "eslint": "^5.15.1",
     "eslint-plugin-react": "^7.12.4"
