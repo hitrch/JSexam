@@ -100,3 +100,5 @@ function formatData(data) {
 }
 
 bot.telegram.setWebhook('https://jsexam.hitrch.now.sh');
+
+module.exports = bot.webhookCallback('/');
